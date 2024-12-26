@@ -10,12 +10,4 @@ This project allows you to extract transcripts from YouTube videos and generate 
 - **Downloadable Output**: Provides an option to download both the transcript and summary as text files.
 - **Simple User Interface**: Built with **Streamlit**, making it easy to input YouTube links and get summaries.
 
-## Installation
-
-Follow these steps to set up and run the project locally.
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/youtube-video-transcriber-summarizer.git
-cd youtube-video-transcriber-summarizer
+## Images
