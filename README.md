@@ -11,3 +11,4 @@ This project allows you to extract transcripts from YouTube videos and generate 
 - **Simple User Interface**: Built with **Streamlit**, making it easy to input YouTube links and get summaries.
 
 ## Images
+<img width="896" alt="transcriber jpg" src="https://github.com/user-attachments/assets/f55a6b1c-e83d-409e-983e-c4d4723bb024" />
