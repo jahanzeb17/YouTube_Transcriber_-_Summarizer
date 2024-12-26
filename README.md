@@ -1,14 +1,21 @@
+# YouTube Video Transcriber and Summarizer
 
-### Sections Breakdown:
+This project allows you to extract transcripts from YouTube videos and generate concise summaries using **Google Gemini AI**. It's built with **Streamlit** for an interactive user interface, and it enables users to summarize YouTube videos in just a few clicks.
 
-1. **Project Title**: Title of the project with a brief explanation.
-2. **Features**: Key functionalities that the project provides.
-3. **Installation**: Detailed instructions for setting up the project locally.
-4. **How to Use**: Simple guide on how users can interact with the app.
-5. **Example**: Provides a sample YouTube link as an example for usage.
-6. **Technologies Used**: A list of technologies used in the project.
-7. **License**: The license under which the project is shared.
-8. **Acknowledgments**: Credits to the libraries and tools used in the project.
-9. **Fork and Contribute**: Invitation for others to contribute.
+## Features
 
-This should serve as a complete, structured README for your project, making it clear for anyone who visits your GitHub repository.
+- **Video Transcript Extraction**: Automatically fetches and compiles the transcript of any YouTube video.
+- **AI-Powered Summarization**: Leverages **Google Gemini AI** to generate summaries of the video transcript in under 250 words.
+- **Video Metadata**: Displays video details like title and channel name.
+- **Downloadable Output**: Provides an option to download both the transcript and summary as text files.
+- **Simple User Interface**: Built with **Streamlit**, making it easy to input YouTube links and get summaries.
+
+## Installation
+
+Follow these steps to set up and run the project locally.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/youtube-video-transcriber-summarizer.git
+cd youtube-video-transcriber-summarizer
